@@ -64,4 +64,4 @@ jobs:
           - libdjvulibre21
         target: install
         repos:
-          - mxm-public
+          - composed-public
